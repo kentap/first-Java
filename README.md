@@ -1,2 +1,3 @@
-# first-Java
+これはJavaプロジェクトをgitで管理するためのテストです
 practice
+
